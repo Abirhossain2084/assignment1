@@ -168,20 +168,20 @@ display: flex;
   .icon {
     width: 150px;
     text-align: center;
-   margin-left: 150px;
+   margin-left: 180px;
    margin-right: 100px;
   }
   
-  .product img {
+  .product-img {
     width: 88px;
     height: 88px;
   }
   
   
   
-  .product p {
+  .product-p {
     color: #777;
-    font-size: 24px;
+    font-size:18px;
   }
 
 
