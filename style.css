@@ -1,0 +1,174 @@
+/*main*/
+
+body{
+    font-family: 'Lato', sans-serif;
+font-family: 'Open Sans', sans-serif;
+}
+
+.btn{
+    border-radius: 8px;
+background: #E55473;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+color: white;
+border: 0;
+}
+
+.primary-heading{
+    color: #272727;
+text-align: center
+font-size: 40px;
+font-weight: 800;
+
+}
+
+.primary-para{
+    color: #27272799;
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+
+}
+
+
+/*header*/
+
+header{
+    
+    display: flex;
+ background:#E554731A;
+ justify-content: space-between;
+}
+
+
+.header-column1{
+    margin-top: 100px;
+    margin-left: 240px;
+
+
+}
+.header-column2{
+    margin-top: 100px;
+    margin-right: 240px;
+
+
+}
+.header-haeding{
+    color: #272727;   
+    font-size: 80px;
+    font-weight: 800;
+    display: flex;
+    width: 708px;
+    
+
+}
+.header-pra{
+    color:#27272799;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+width: 634px;
+}
+
+/*featured*/
+
+.fratured{
+    margin-top:100px ;
+    margin-left: 240px;
+    margin-right: 240px;
+    
+}
+
+.head-para-feat{
+    text-align: center;
+}
+
+.feature-image{
+    display: flex;
+    margin-left: 240px;
+    margin-right: 240px;
+    justify-content: space-between;
+    gap: 40px;
+
+   
+}
+
+.feature-img1{
+    width: 464px;
+    height: 538px;
+    background: #A7216226;  
+    
+    border-radius: 300px 300px 0px 0px;
+}
+
+.feature-img11{
+   
+   margin-top: 110px;
+   margin-left:50px;
+
+       
+}
+.feature-img2{
+    width: 464px;
+    height: 538px;
+    background: #0597A026;
+    border-radius: 300px 300px 0px 0px;
+}
+.feature-img12{
+   
+    margin-top: 170px;
+    margin-left:50px;
+ 
+        
+ }
+
+.feature-img3{
+    width: 464px;
+    height: 538px;
+    background: #477D1126;
+    border-radius: 300px 300px 0px 0px;
+}
+.feature-img13{
+          margin-top: 65px;
+          margin-left: 50px;
+ }
+ .flower-link{
+    color: #272727;
+text-align: center;
+font-size: 24px;
+font-weight: 700;
+line-height: 35px;
+text-decoration-line: underline;
+display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/*hot deal*/
+
+.hot-deal{
+    margin-top: 100px;
+    background: #E554730D;
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn1{
+    border-radius: 8px;
+background: #E55473;
+padding: 20px 43px;
+align-items: flex-start;
+gap: 10px;
+color: white;
+border: 0;
+margin-left: 200px;
+}
+.off{
+    color: #E55473;
+}
+
+
+
+
