@@ -169,6 +169,112 @@ margin-left: 200px;
     color: #E55473;
 }
 
+/*insta*/
+
+.insta{
+    margin-top:100px ;
+    margin-left: 240px;
+    margin-right: 240px;
+}
+.instaimage{
+    display: flex;
+    gap: 20px;
+}
+
+/*latest deal*/
 
 
+
+.latest-deal{
+    margin-top:100px ;
+    margin-left: 240px;
+    margin-right: 240px;
+    background-image: url(img/Rectangle\ 9.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 449px;
+    border-radius: 8px;
+
+   
+}
+
+.header-latest{
+
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    color: #272727;
+    padding-top: 150px;
+}
+
+.latest-pra{
+    color: #27272799;
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+
+
+ 
+
+.inputfielad{
+    width: 700px;
+height: 64px;
+border-radius: 8px;
+background: #FFF;
+margin-left: 300px;
+border: 0px;
+}
+
+.input-btn{
+    width: 150px;
+height: 64px;
+flex-shrink: 0;
+
+border-radius: 8px;
+background: #E55473;
+border: 0px;
+color: white;
+font-size: 20px;
+}
+
+/*footer*/
+.fotter{
+    margin-top: 100px;
+background-color: #111010;
+height: 449px;
+text-align: center;
+}
+
+.fotter-head{
+    color: #E55473;
+    font-family: Lato;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding-top: 140px;
+}
+
+.footer-pra{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+
+}
+.allrights{
+    color:#d1c5c5;
+text-align: center;
+font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
 
